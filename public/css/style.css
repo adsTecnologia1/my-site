@@ -1,5 +1,16 @@
 .titulos { 
-    width: 700px; 
-    margin-left: auto;
-    margin-right: auto; 
+    text-align: center;
 }
+.texto{
+   
+    text-align: center;
+   
+}
+.pdf{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}   
